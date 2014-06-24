@@ -1,4 +1,0 @@
-webshim-webjar
-==============
-
-Webshim webjar
