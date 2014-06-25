@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>webshim</artifactId>
-    <version>1.14.2</version>
+    <version>1.14.2-SNAPSHOT</version>
     <name>Webshim</name>
     <description>The polyfilling, capability based loading JavaScript Library</description>
     <url>http://afarkas.github.io/webshim/demos/</url>
